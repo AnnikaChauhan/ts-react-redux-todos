@@ -1,4 +1,4 @@
-export enum ActionTyoes {
+export enum ActionTypes {
     fetchTodos
 }
 
